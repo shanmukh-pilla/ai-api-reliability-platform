@@ -1,4 +1,4 @@
-# 🤖 AI API Reliability Platform
+#AI API Reliability Platform
 
 Enterprise API Monitoring, Test Automation & Reliability Engineering Dashboard
 
@@ -6,7 +6,7 @@ Enterprise API Monitoring, Test Automation & Reliability Engineering Dashboard
 
 ---
 
-# 📌 Introduction
+# Introduction
 
 The **AI API Reliability Platform** is an enterprise-style quality engineering and API observability system designed to automate API validation, monitor reliability, enforce quality gates, and visualize API health through an interactive dashboard.
 
@@ -30,7 +30,7 @@ The platform simulates real-world systems used by:
 
 ---
 
-# 🌍 Real-World Problem Statement
+# Real-World Problem Statement
 
 Modern businesses heavily depend on APIs.
 
@@ -63,7 +63,7 @@ This platform addresses those challenges.
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 The objective of this project is to build a scalable AI-powered API reliability platform capable of:
 
@@ -78,7 +78,7 @@ The objective of this project is to build a scalable AI-powered API reliability 
 
 ---
 
-# 🧠 Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -93,7 +93,7 @@ The objective of this project is to build a scalable AI-powered API reliability 
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
 Developer Push
@@ -115,7 +115,7 @@ AI Reliability Insights
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```text
 ai-api-reliability-platform/
@@ -150,9 +150,9 @@ ai-api-reliability-platform/
 
 ---
 
-# ⚙️ Features Implemented
+# Features Implemented
 
-## ✅ API Automation Testing
+## API Automation Testing
 
 Automated API validation using pytest.
 
@@ -165,7 +165,7 @@ Includes:
 
 ---
 
-## ✅ GitHub Actions CI/CD
+## GitHub Actions CI/CD
 
 Automated workflows execute on every push.
 
@@ -179,7 +179,7 @@ Pipeline stages include:
 
 ---
 
-## ✅ Multi-Environment Pipelines
+## Multi-Environment Pipelines
 
 Supports:
 
@@ -199,7 +199,7 @@ Example:
 
 ---
 
-## ✅ Docker Containerization
+## Docker Containerization
 
 Tests execute consistently across:
 
@@ -217,7 +217,7 @@ problems.
 
 ---
 
-## ✅ Test Data Management
+## Test Data Management
 
 The platform provisions fresh test data before execution and cleans up afterwards.
 
@@ -229,7 +229,7 @@ Benefits:
 
 ---
 
-## ✅ Quality Gates
+## Quality Gates
 
 Coverage thresholds are enforced automatically.
 
@@ -245,7 +245,7 @@ If coverage drops:
 
 ---
 
-## ✅ Monitoring Dashboard UI
+## Monitoring Dashboard UI
 
 Interactive enterprise-style dashboard built using Streamlit.
 
@@ -259,9 +259,9 @@ Dashboard displays:
 
 ---
 
-# 📊 Dashboard Capabilities
+# Dashboard Capabilities
 
-## 📌 API Health Monitoring
+## API Health Monitoring
 
 ```text
 Users API → Healthy
@@ -271,7 +271,7 @@ Payments API → Healthy
 
 ---
 
-## 📌 Performance Monitoring
+## Performance Monitoring
 
 Tracks:
 
@@ -283,7 +283,7 @@ using charts and visual analytics.
 
 ---
 
-## 📌 Quality Gate Status
+## Quality Gate Status
 
 Displays:
 
@@ -294,7 +294,7 @@ Displays:
 
 ---
 
-## 📌 AI Reliability Alerts
+## AI Reliability Alerts
 
 Example alerts:
 
@@ -306,7 +306,7 @@ Example alerts:
 
 ---
 
-# 📦 requirements.txt
+# requirements.txt
 
 ```txt
 pytest
@@ -318,7 +318,7 @@ plotly
 
 ---
 
-# ⚙️ Setup Instructions
+# Setup Instructions
 
 ## Step 1 — Clone Repository
 
@@ -368,7 +368,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Running Tests
+# Running Tests
 
 ## Standard Test Execution
 
@@ -386,7 +386,7 @@ python -m pytest --cov=src --cov-report=html --cov-fail-under=80
 
 ---
 
-# 🐳 Docker Execution
+# Docker Execution
 
 ## Build Docker Image
 
@@ -404,7 +404,7 @@ docker run ai-api-platform
 
 ---
 
-# 🖥️ Running Dashboard UI
+# Running Dashboard UI
 
 ## Start Streamlit Dashboard
 
@@ -416,7 +416,7 @@ The dashboard opens automatically in the browser.
 
 ---
 
-# 📈 Coverage Reports
+# Coverage Reports
 
 Coverage reports are generated inside:
 
@@ -434,7 +434,7 @@ in browser.
 
 ---
 
-# 🚀 CI/CD Pipelines
+# CI/CD Pipelines
 
 Implemented using GitHub Actions.
 
@@ -448,7 +448,7 @@ Pipelines include:
 
 ---
 
-# 🛡️ Quality Engineering Concepts Used
+# Quality Engineering Concepts Used
 
 - API automation testing
 - CI/CD workflows
@@ -462,7 +462,7 @@ Pipelines include:
 
 ---
 
-# 🏢 Business Value
+# Business Value
 
 This platform simulates enterprise systems used in:
 
@@ -483,7 +483,7 @@ Benefits include:
 
 ---
 
-# 🚀 Future Enhancements
+# Future Enhancements
 
 Possible future upgrades:
 
@@ -500,7 +500,7 @@ Possible future upgrades:
 
 ---
 
-# 📚 Learning Outcomes
+# Learning Outcomes
 
 This project demonstrates:
 
@@ -515,7 +515,7 @@ This project demonstrates:
 
 ---
 
-# 💼 Skills Gained
+# Skills Gained
 
 - Python Automation
 - API Testing
@@ -531,7 +531,7 @@ This project demonstrates:
 
 ---
 
-# 🏁 Conclusion
+# Conclusion
 
 The AI API Reliability Platform demonstrates how modern engineering teams build scalable systems for:
 
@@ -545,6 +545,6 @@ This project combines QA Automation, DevOps, Monitoring, and AI Reliability Engi
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 Shanmukh Pilla

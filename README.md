@@ -2,17 +2,7 @@
 
 Enterprise API Monitoring, Test Automation & Reliability Engineering Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-
-![Pytest](https://img.shields.io/badge/Tested%20With-Pytest-green)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black?logo=githubactions)
-
-![Docker](https://img.shields.io/badge/Docker-Containerized-blue?logo=docker)
-
-![Coverage](https://img.shields.io/badge/Coverage-Quality%20Gates-orange)
-
-![Streamlit](https://img.shields.io/badge/UI-Streamlit-red?logo=streamlit)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eef52e23-4dec-4b3a-8fa4-5fb3e35f157f" />
 
 ---
 
